@@ -50,7 +50,7 @@ warnings.filterwarnings("ignore")
 # ===============================
 # 입력: 3D 관절 좌표가 저장된 Excel 파일
 # 출력: 3D 스켈레톤 GIF 시각화 결과
-DATA_DIR   = r"D:\RnDTestProject\ddd" 
+DATA_DIR   = r"D:\RnDTestProject\data" 
 OUTPUT_DIR = r"D:\RnDTestProject\test탄탄스웨_output\탄탄스웨_datavisualization"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
